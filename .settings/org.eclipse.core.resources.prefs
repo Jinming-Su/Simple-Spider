@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//spider/html_downloader.py=utf8
+encoding//spider/html_outputer.py=utf8
+encoding//spider/html_parser.py=utf8
+encoding//spider/spider_Main.py=utf8
+encoding//spider/url_manager.py=utf8
